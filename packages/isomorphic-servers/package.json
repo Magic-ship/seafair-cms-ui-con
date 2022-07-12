@@ -10,7 +10,7 @@
     "clone": "^2.1.2",
     "history": "^5.0.0",
     "jwt-decode": "^2.2.0",
-    "node-sass": "^4.14.1",
+    "node-sass": "7.0.0",
     "nprogress": "^0.2.0",
     "postcss-inline-rtl": "^0.9.8",
     "react": "^16.13.1",
