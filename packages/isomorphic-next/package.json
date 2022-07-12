@@ -76,7 +76,7 @@
     "styled-components": "^5.1.1",
     "styled-theme": "^0.3.3",
     "styled-tools": "^1.7.1",
-    "swiper": "^5.4.5",
+    "swiper": ">=6.5.1",
     "uppy": ">=2.3.3",
     "uuid": "^8.1.0"
   },
